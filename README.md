@@ -8,9 +8,9 @@ Also nltk package is used in this project
 
 Installation of NLTK:
 
-''' 
+```
 pip install nltk
-'''
+```
 Run all the cells of ipynb file to train the chatbot
 
 
